@@ -120,3 +120,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = ('/home/danito/Django-Projects/danlovewebapps/webapp/templates/webapp/static',)
+STATIC_ROOT = '/home/danito/Django-Projects/danlovewebapps/static'
